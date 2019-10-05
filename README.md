@@ -88,5 +88,5 @@ More information are available in the official [CONTRIBUTING](CONTRIBUTING.md) f
 * <a href="https://github.com/marcobambini/gravity/pulls">Submit a pull request</a>:
 	* if you want to contribute
 
-## License
+### License
 Gravity is available under the permissive MIT license.
